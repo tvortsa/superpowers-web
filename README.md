@@ -2,12 +2,12 @@
 
 [![Build Status](https://travis-ci.org/superpowers/superpowers-web.svg?branch=master)](https://travis-ci.org/superpowers/superpowers-web)
 
-Make static websites in live collaboration with [Superpowers](http://superpowers-html5.com/).
+Создавайте статичные сайты в живой коллаборации с помощью [Superpowers](http://superpowers-html5.com/).
 
-The Superpowers Web system uses [Pug](https://pugjs.org/) for HTML and [Stylus](http://stylus-lang.com/) for stylesheets.
+Superpowers Web system использует [Pug](https://pugjs.org/) для HTML и [Stylus](http://stylus-lang.com/) для стилей.
 
-## How to install
+## Установка
 
-For now, you'll need to build it from source. See [Building Superpowers](http://docs.sparklinlabs.com/en/development/building-superpowers).
+На данный момент вам нужно будет построить его из исходного кода. См. [Building Superpowers](http://docs.sparklinlabs.com/en/development/building-superpowers).
 
-Once Superpowers v1.0 is released, installing a new system will be possible in a couple of clicks!
+Как только Superpowers v1.0 будет выпущен, установка новой системы станет возможной в пару кликов!
