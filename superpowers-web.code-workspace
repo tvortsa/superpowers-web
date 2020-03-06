@@ -2,7 +2,15 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "G:\\download\\-SOFT-\\DEV\\WEB\\superpowers-web-v4.0.0\\superpowers-web-v4.0.0"
+		},
+		{
+			"path": "G:\\DEV\\JS\\Superpowers\\superpowers\\core"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "superpowers-web-v4.0.0"
+	}
 }
